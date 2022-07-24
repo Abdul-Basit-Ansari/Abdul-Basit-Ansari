@@ -57,9 +57,6 @@ and Hackathons <br>
 		<img align="left" alt="GitHub" target="blank" title="GitHub" width="40" height="40" src="./imgs/github.png"
 			style="padding-right:10px;" />
 	</a>
-	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
-		<img align="left" alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal-light.svg" />
-	</a>
 	<a href="https://code.visualstudio.com/">
 		<img align="left" alt="VS Code" title="VS Code Making life Easy" width="40" height="40"
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
@@ -123,8 +120,7 @@ and Hackathons <br>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
 			width="40" height="40" />
 	</a>
-	
-	<a href="https://postman.com" target="_blank" rel="noreferrer" title="API testing with Postman">
+        <a href="https://postman.com" target="_blank" rel="noreferrer" title="API testing with Postman">
 		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
 			height="40" />
 	</a>
@@ -140,15 +136,15 @@ and Hackathons <br>
 				fill="#007FFF"></path>
 		</svg>
 	</a>
-
-
-
-	<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS">
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
 			alt="express" width="40" height="40" /> 
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS">
 		<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+	</a>
+	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
+		<img align="left" alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal-light.svg" />
 	</a>
 </p>
 <hr>
@@ -191,8 +187,7 @@ and Hackathons <br>
 		<img src="./imgs/pwa2.png"
 			alt="PWA" width="55" height="35" />
 	</a>
-	
-	<a href="https://www.salesforce.com/in/saas/" target="_blank" title="Software as a service" title="SaaS"
+        <a href="https://www.salesforce.com/in/saas/" target="_blank" title="Software as a service" title="SaaS"
 		style="text-decoration: none;">
 		<img src="./imgs/saas.png" width="40px" />
 	</a>
