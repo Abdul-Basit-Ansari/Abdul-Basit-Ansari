@@ -215,8 +215,7 @@ and Hackathons <br>
 		style="text-decoration: none;">
 		<img src="./imgs/dialogflow.png" width="40px" />
 	</a>
-	
-	<a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"
+        <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"
 		title="Cockroach DataBase">
 		<img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40" />
 	</a>
