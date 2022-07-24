@@ -208,8 +208,7 @@ and Hackathons <br>
 		<img src="https://socket.io/images/logo.svg" alt="socket.IO"
 			width="40" height="40" />
 	</a>
-	
-	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="GNU Bash (unix)">
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="GNU Bash (unix)">
 		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
 	</a>
 	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
