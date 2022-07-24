@@ -115,8 +115,7 @@ and Hackathons <br>
 		<img src="./imgs/icons8-npm-48.png" alt="NPM"
 			width="40" height="40" />
 	</a>
-	
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
 			alt="postgresql" width="40" height="40" />
 	</a>
@@ -133,7 +132,6 @@ and Hackathons <br>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 			alt="python" width="40" height="40" />
 	</a>
-	
 	<a href="https://mui.com/" target="_blank" title="Material UI (designing)" style="text-decoration: none;">
 		<svg xmlns="http://www.w3.org/2000/svg" width="30" height="32" viewBox="0 0 36 32" fill="none"
 			class="css-1170n61">
@@ -181,8 +179,7 @@ and Hackathons <br>
 	<a href="https://graphql.org" target="_blank" rel="noreferrer" title="Client Side GraphQL in React Apps">
 		<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
 	</a>
-	
-		<a href="https://d3js.org/" target="_blank" rel="noreferrer" title="Library for manipulating documents on Data">
+        <a href="https://d3js.org/" target="_blank" rel="noreferrer" title="Library for manipulating documents on Data">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
 			width="40" height="40" />
 	</a>
