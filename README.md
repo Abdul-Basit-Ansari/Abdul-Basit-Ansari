@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <i><b>SHEHZAD💯</b></i></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <i><b>Abdul-Basit-Ansari💯</b></i></h1>
 
 <!-- animation start  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=22F70C&center=true&width=665&height=55&lines=Passionate+Full-Stack+Developer%F0%9F%92%BB;Experience+Seeker%F0%9F%92%AF;Dedicated+to+Work%F0%9F%92%AA%F0%9F%8F%BB;Always+Learning%F0%9F%92%A1;from+Karachi%2C+Pakistan%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
@@ -24,24 +24,24 @@ and Hackathons <br>
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 <p align="left">
-	<a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center"
+	<a href="https://www.linkedin.com/in/abdul-basit-ansari-9b740b21b/" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-			alt="shehzadd" height="30" width="40" /></a>
-	<a href="https://twitter.com/shehza_d_" target="blank"><img align="center"
+			alt="Linkedin" height="30" width="40" /></a>
+	<!-- <a href="https://twitter.com/shehza_d_" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-			alt="shehza_d_" height="30" width="40" /></a>
-	<a href="https://stackoverflow.com/users/18210334/shehzad" target="blank"><img align="center"
+			alt="shehza_d_" height="30" width="40" /></a> -->
+	<a href="https://stackoverflow.com/users/18128054/abdul-basit-ansari" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
 			alt="stack-overflow" height="30" width="40" /></a>
-	<a href="https://instagram.com/shehza.d" target="blank"><img align="center"
+	<a href="https://www.instagram.com/abdul__basit__ansari/" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-			alt="shehza.d" height="30" width="40" /></a>
-	<a href="https://www.youtube.com/channel/UCUTMs216kmgY9lOgBFDckAQ" target="blank"><img align="center"
+			alt="Instagram" height="30" width="40" /></a>
+	<!-- <a href="https://www.youtube.com/channel/UCUTMs216kmgY9lOgBFDckAQ" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-			alt="YouTube" height="40" width="40" /></a>
-	<a href="https://www.upwork.com/freelancers/~01d9a6c55b707b71aa" target="blank"><img align="center"
-			src="./imgs/icons8-upwork.png" alt="Fiver" height="41" width="41" /></a>
-	<a href="https://www.fiverr.com/shehza_d" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
+			alt="YouTube" height="40" width="40" /></a> -->
+	<!-- <a href="https://www.upwork.com/freelancers/~0131210dea9492deb2" target="blank"><img align="center"
+			src="./imgs/icons8-upwork.png" alt="Upwork" height="41" width="41" /></a> -->
+	<a href="https://www.fiverr.com/mr_shahzi_ans" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
 			height="41" width="41" /></a>
 </p>
 
@@ -53,8 +53,8 @@ and Hackathons <br>
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40"
 			height="40" />
 	</a>
-	<a href="#">
-		<img align="left" alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png"
+	<a href="https://github.com">
+		<img align="left" alt="GitHub" target="blank" title="GitHub" width="40" height="40" src="./imgs/github.png"
 			style="padding-right:10px;" />
 	</a>
 	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
@@ -65,10 +65,10 @@ and Hackathons <br>
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 			style="padding-right:10px;" />
 	</a>
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux Ubuntu 22 (Daily Driver)"
+	<!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux Ubuntu 22 (Daily Driver)"
 		style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-			width="40" height="40" /> </a>
+			width="40" height="40" /> </a> -->
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML 5">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
 			alt="html5" title="HTML5" width="40" height="40" />
@@ -87,15 +87,15 @@ and Hackathons <br>
 		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
 			height="40" /></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
-		title="Advance JavaScript with ES13" style="text-decoration: none;">
+		title="Advance JavaScript with ES6" style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 			alt="javascript" width="40" height="40" />
 	</a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="from FG College"
+	<!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="from FG College"
 		style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
 			alt="cplusplus" width="40" height="40" />
-	</a>
+	</a> -->
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React" style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 			alt="react" width="40" height="40" />
@@ -115,31 +115,42 @@ and Hackathons <br>
 		<img src="./imgs/icons8-npm-48.png" alt="NPM"
 			width="40" height="40" />
 	</a>
-	<a href="https://socket.io/" target="_blank" rel="noreferrer" title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
-		<img src="https://socket.io/images/logo.svg" alt="socket.IO"
-			width="40" height="40" />
+	
+	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+			alt="postgresql" width="40" height="40" />
 	</a>
 	<a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux" style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
 			width="40" height="40" />
 	</a>
+	
+	<a href="https://postman.com" target="_blank" rel="noreferrer" title="API testing with Postman">
+		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+			height="40" />
+	</a>
+	<a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python For Web Development">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+			alt="python" width="40" height="40" />
+	</a>
+	
+	<a href="https://mui.com/" target="_blank" title="Material UI (designing)" style="text-decoration: none;">
+		<svg xmlns="http://www.w3.org/2000/svg" width="30" height="32" viewBox="0 0 36 32" fill="none"
+			class="css-1170n61">
+			<path fill-rule="evenodd" clip-rule="evenodd"
+				d="M30.343 21.976a1 1 0 00.502-.864l.018-5.787a1 1 0 01.502-.864l3.137-1.802a1 1 0 011.498.867v10.521a1 1 0 01-.502.867l-11.839 6.8a1 1 0 01-.994.001l-9.291-5.314a1 1 0 01-.504-.868v-5.305c0-.006.007-.01.013-.007.005.003.012 0 .012-.007v-.006c0-.004.002-.008.006-.01l7.652-4.396c.007-.004.004-.015-.004-.015a.008.008 0 01-.008-.008l.015-5.201a1 1 0 00-1.5-.87l-5.687 3.277a1 1 0 01-.998 0L6.666 9.7a1 1 0 00-1.499.866v9.4a1 1 0 01-1.496.869l-3.166-1.81a1 1 0 01-.504-.87l.028-16.43A1 1 0 011.527.86l10.845 6.229a1 1 0 00.996 0L24.21.86a1 1 0 011.498.868v16.434a1 1 0 01-.501.867l-5.678 3.27a1 1 0 00.004 1.735l3.132 1.783a1 1 0 00.993-.002l6.685-3.839zM31 7.234a1 1 0 001.514.857l3-1.8A1 1 0 0036 5.434V1.766A1 1 0 0034.486.91l-3 1.8a1 1 0 00-.486.857v3.668z"
+				fill="#007FFF"></path>
+		</svg>
+	</a>
+
+
+
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-			alt="express" width="40" height="40" />
-	 </a>
-	 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="Typescript"
-		style="text-decoration: none;">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-			alt="typescript" width="40" height="40" />
+			alt="express" width="40" height="40" /> 
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS">
 		<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-	</a>
-	<a href="https://babeljs.io/" target="_blank" rel="noreferrer" title="BabelJS">
-		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-	</a>
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 	</a>
 </p>
 <hr>
@@ -170,19 +181,8 @@ and Hackathons <br>
 	<a href="https://graphql.org" target="_blank" rel="noreferrer" title="Client Side GraphQL in React Apps">
 		<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
 	</a>
-	<a href="https://postman.com" target="_blank" rel="noreferrer" title="API testing with Postman">
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-			height="40" />
-	</a>
-	<a href="https://mui.com/" target="_blank" title="Material UI (designing)" style="text-decoration: none;">
-		<svg xmlns="http://www.w3.org/2000/svg" width="30" height="32" viewBox="0 0 36 32" fill="none"
-			class="css-1170n61">
-			<path fill-rule="evenodd" clip-rule="evenodd"
-				d="M30.343 21.976a1 1 0 00.502-.864l.018-5.787a1 1 0 01.502-.864l3.137-1.802a1 1 0 011.498.867v10.521a1 1 0 01-.502.867l-11.839 6.8a1 1 0 01-.994.001l-9.291-5.314a1 1 0 01-.504-.868v-5.305c0-.006.007-.01.013-.007.005.003.012 0 .012-.007v-.006c0-.004.002-.008.006-.01l7.652-4.396c.007-.004.004-.015-.004-.015a.008.008 0 01-.008-.008l.015-5.201a1 1 0 00-1.5-.87l-5.687 3.277a1 1 0 01-.998 0L6.666 9.7a1 1 0 00-1.499.866v9.4a1 1 0 01-1.496.869l-3.166-1.81a1 1 0 01-.504-.87l.028-16.43A1 1 0 011.527.86l10.845 6.229a1 1 0 00.996 0L24.21.86a1 1 0 011.498.868v16.434a1 1 0 01-.501.867l-5.678 3.27a1 1 0 00.004 1.735l3.132 1.783a1 1 0 00.993-.002l6.685-3.839zM31 7.234a1 1 0 001.514.857l3-1.8A1 1 0 0036 5.434V1.766A1 1 0 0034.486.91l-3 1.8a1 1 0 00-.486.857v3.668z"
-				fill="#007FFF"></path>
-		</svg>
-	</a>
-	<a href="https://d3js.org/" target="_blank" rel="noreferrer" title="Library for manipulating documents on Data">
+	
+		<a href="https://d3js.org/" target="_blank" rel="noreferrer" title="Library for manipulating documents on Data">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
 			width="40" height="40" />
 	</a>
@@ -194,10 +194,7 @@ and Hackathons <br>
 		<img src="./imgs/pwa2.png"
 			alt="PWA" width="55" height="35" />
 	</a>
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-			alt="postgresql" width="40" height="40" />
-	</a>
+	
 	<a href="https://www.salesforce.com/in/saas/" target="_blank" title="Software as a service" title="SaaS"
 		style="text-decoration: none;">
 		<img src="./imgs/saas.png" width="40px" />
@@ -215,10 +212,11 @@ and Hackathons <br>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 			alt="aws" width="40" height="40" />
 	</a>
-	<a href="https://www.w3schools.com/sql/sql_intro.asp#:~:text=What%20is%20SQL%3F,for%20Standardization%20(ISO)%20in%201987"
-		target="_blank" title="" title="SQL" style="text-decoration: none;">
-		<img src="./imgs/sql-server.png" width="40px" />
+	<a href="https://socket.io/" target="_blank" rel="noreferrer" title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
+		<img src="https://socket.io/images/logo.svg" alt="socket.IO"
+			width="40" height="40" />
 	</a>
+	
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="GNU Bash (unix)">
 		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
 	</a>
@@ -226,10 +224,7 @@ and Hackathons <br>
 		style="text-decoration: none;">
 		<img src="./imgs/dialogflow.png" width="40px" />
 	</a>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python for AI">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-			alt="python" width="40" height="40" />
-	</a>
+	
 	<a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"
 		title="Cockroach DataBase">
 		<img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40" />
@@ -257,7 +252,8 @@ and Hackathons <br>
 		<img src="./imgs/formik.png" width="40px" />
 		<!-- npm  https://www.npmjs.com/package/yup -->
 	</a>
-	<a href="https://miragejs.com/tutorial/intro/" target="_blank" title="API Mocking Servers with Mirage.JS"
+</p>
+	<!-- <a href="https://miragejs.com/tutorial/intro/" target="_blank" title="API Mocking Servers with Mirage.JS"
 		style="text-decoration: none;">
 		<svg viewBox="0 0 79 69" fill="none" width="50px" class="w-8 sm:w-10">
 			<path fill-rule="evenodd" clip-rule="evenodd"
@@ -273,40 +269,39 @@ and Hackathons <br>
 				d="M29.522 9.868a2 2 0 011.74.906l22.33 34.214a2 2 0 01-3.349 2.186L29.715 15.721l-17.624 31.34a2 2 0 01-3.486-1.96l19.24-34.214a2 2 0 011.677-1.019z"
 				fill="#05C77E"></path>
 		</svg>
-		<!-- https://miragejs.com/ -->
-	</a>
-	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+	</a> -->
+	<!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
 			alt="photoshop" width="40" height="40" />
-	</a>
-</p>
+	</a> -->
 
 <hr>
 <br>
 <p>
 	<img align="center" style="display: block;"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=shehza-d&show_icons=true&locale=en&layout=compact"
-		alt="shehza-d" />
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-basit-ansari&show_icons=true&locale=en&layout=compact"
+		alt="Abdul's Languages States" />
 </p>
 <br>
 <p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehza-d&show_icons=true&locale=en"
-		alt="shehza-d" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-basit-ansari&show_icons=true&locale=en"
+		alt="Abdul's States" />
 </p>
 <br>
 <p>
-	<img align="center" style="display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=shehza-d&"
-		alt="shehza-d" />
+	<img align="center" style="display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-basit-ansari&"
+		alt="Abdul's Streak Status" />
 </p>
 
 
 
 <!-- (https://camo.githubusercontent.com/117d0191569b7e00e69062ce99d26fe9c251dc735c57386b497c75b0b26dda08/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966) photo gif
 
-shehza-d/shehza-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abdul-Basit-Ansari/Abdul-Basit-Ansari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 Enthusiastic 💯
 Dedicated to Work
 Hungry for Experience 😉
 I always like to Enjoy my Work that I'm doing
 Looking forward to be a Computer teacher and run a Software house😊 -->
+
