@@ -11,13 +11,12 @@
 <hr>
 <h3 style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
 - 💪🏻 Enthusiastic<br>
-- 🌱 I’m currently learning <b>Web Development, JavaScript</b><br>
-- 👀 I am interested in Programming, Cyber Security, BlockChain(smart contracts), Photo/Video Editing and in Bug Bounty
-and Hackathons <br>
+- 🏆 I am a <b>Certified Python/Django Developer</b><br>
+- 🌱 I’m currently learning <b>MERN Stack Web Development</b><br>
+- 👀 I am interested in Programming,Backend Development and in Bug Bounty and Hackathons <br>
 - 💞️ Always looking forward to collaborate on projects<br>
 - 💻 Dedicated to Work and seeking Experiences <br>
 - ⛳️ MY 2022 Goal is Mastering JavaScript<br>
-<!-- - 🏆 I am a <b>Certified Full-Stack Developer</b><br> -->
 -    A passionate Full-Stack Developer from Karachi, Pakistan❤️<br>
 -    (hope you see me coming😉) <br>
 
@@ -41,7 +40,9 @@ and Hackathons <br>
 			alt="YouTube" height="40" width="40" /></a> -->
 	<!-- <a href="https://www.upwork.com/freelancers/~0131210dea9492deb2" target="blank"><img align="center"
 			src="./imgs/icons8-upwork.png" alt="Upwork" height="41" width="41" /></a> -->
-	<a href="https://www.fiverr.com/mr_shahzi_ans" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
+	<!--<a href="https://www.fiverr.com/mr_shahzi_ans" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
+			height="41" width="41" /></a> -->
+	<a href="https://www.facebook.com/I.Am.Mr.A.B.A/" target="blank"><img align="center" title="Facebook" src="./imgs/fb.png" alt="Facebook"
 			height="41" width="41" /></a>
 </p>
 
