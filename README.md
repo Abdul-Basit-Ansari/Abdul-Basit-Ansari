@@ -44,9 +44,8 @@
 			height="41" width="41" /></a> -->
 	<a href="https://www.facebook.com/I.Am.Mr.A.B.A/" target="blank"><img align="center" title="Facebook" src="./imgs/fb.png" alt="Facebook"
 			height="41" width="41" /></a>
+			 <img src="https://komarev.com/ghpvc/?username=Abdul-Basit-Ansari&label=Star%20Repo&color=0e75b6&style=flat" alt="Abdul-Basit-Ansari" align="right"/>
 </p>
-
-
 <hr>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 <p align="left">
