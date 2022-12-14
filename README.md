@@ -26,7 +26,7 @@
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 			alt="Linkedin" height="30" width="40" /></a>
 	<!-- <a href="https://twitter.com/shehza_d_" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+			src8d8de50ea4659fb94c7fc971fd17c7285b9cf1187e3bb6aacb3473b11e6b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416264756c2d42617369742d416e736172692673686f775f69636f6e733d74727565266c6f63616c653d656e26636f756e745f707269766174653d74727565267468656d653d636f62616c74="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
 			alt="shehza_d_" height="30" width="40" /></a> -->
 	<a href="https://stackoverflow.com/users/18128054/abdul-basit-ansari" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
@@ -245,7 +245,10 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=Abdul-Basit-Ansari&show_icons=true&locale=en&count_private=true&theme=cobalt"
 			alt="Abdul-Basit-Ansari" />
 		<br> <br>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Basit-Ansari&theme=cobalt" alt="Abdul-Basit-Ansari" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-basit-ansari&show_icons=true&locale=en&layout=compact&theme=cobalt"
+			alt="Abdul-Basit-Ansari" />
+		<br> <br>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Basit-Ansari&theme=dracula" alt="Abdul-Basit-Ansari" />
 		<br> <br>
 		<img src="https://github-profile-trophy.vercel.app/?username=Abdul-Basit-Ansari&theme=discord" alt="Abdul-Basit-Ansari" />
 	</p>
