@@ -233,8 +233,6 @@
 <hr>
 <br>
 
-<hr>
-<br>
 
 <details>
 	<summary>
