@@ -16,7 +16,7 @@
 - 💻 Dedicated to Work and seeking Experiences <br>
 - 🏆 I am a <b>Certified Full-Stack Developer</b><br>
 -    from Karachi, Pakistan❤️<br>
-- Certified from Saylani MIT❤️<br>
+- Certified from Saylani MIT / SYSBORG / Hacker Rank / CISCO   ❤️<br>
 - (hope you see me coming😉) <br>
 
 <hr>
@@ -232,6 +232,8 @@
 </p>
 <hr>
 <br>
+<a href="https://wakatime.com/badge/user/93e5cec5-0261-423d-bc5f-11560e94bb8f/project/b3647543-aaf8-4879-be61-011db104dc41"><img src="https://wakatime.com/badge/user/93e5cec5-0261-423d-bc5f-11560e94bb8f/project/b3647543-aaf8-4879-be61-011db104dc41.svg" alt="wakatime"></a>
+<br>
 
 
 <details>
@@ -241,16 +243,53 @@
 	</summary>
 	<br>
 	<p align="center">
-		<br><br>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-basit-ansari&show_icons=true&locale=en&layout=compact&theme=cobalt"
-			alt="Abdul-Basit-Ansari" />
+			alt="Abdul-Basit-Ansari Most Used Languages"  />
 		<br> <br>
 		<img src="https://github-readme-stats.vercel.app/api?username=Abdul-Basit-Ansari&show_icons=true&locale=en&count_private=true&theme=cobalt"
-			alt="Abdul-Basit-Ansari" />
+			alt="Abdul-Basit-Ansari Github Stats" />
 		<br> <br>
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Basit-Ansari&theme=dracula" alt="Abdul-Basit-Ansari" />
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Basit-Ansari&theme=dracula" alt="Abdul-Basit-Ansari Github Streaks" />
 		<br> <br>
-		<img src="https://github-profile-trophy.vercel.app/?username=Abdul-Basit-Ansari&theme=discord" alt="Abdul-Basit-Ansari" />
+		<img src="https://github-profile-trophy.vercel.app/?username=Abdul-Basit-Ansari&theme=discord" alt="Abdul-Basit-Ansari Github Stars Commits Data" />
+		<br> <br>
+		<img src="https://wakatime.com/share/@Abdul_Basit_Ansari/df9234a3-82a5-4446-a971-6953cf608b24.svg"
+			alt="Abdul-Basit-Ansari Coding Activity" />
+		<br> <br>
+		<img src="https://wakatime.com/share/@Abdul_Basit_Ansari/e155f1a1-81bc-4c72-804c-f3bc484fe223.svg"
+			alt="Abdul-Basit-Ansari Languages Used " />
+	</p>
+
+</details>
+
+<details>
+	<summary>
+		<h1> Certificates :
+			<h1 />
+	</summary>
+	<br>
+	<p align="center">
+	<a href="https://www.hackerrank.com/certificates/6e79932bc5cd" target="blank"><img src="./imgs/cer/reactBasic.png" style="width:250px; height:250px; margin:2px;"
+			alt="" /></a>
+	<a href="https://www.sololearn.com/certificates/CT-DSMOP9RK" target="blank"><img src="./imgs/cer/responsive.png" style="width:250px; height:250px; margin:2px;"
+			alt="" /></a>
+	<a href="https://www.hackerrank.com/certificates/03fe68b9d2a4" target="blank"><img src="./imgs/cer/python.png" style="width:250px; height:250px; margin:2px;"
+			alt="" /></a>
+	<a href="https://www.hackerrank.com/certificates/d6127d8dc536" target="blank"><img src="./imgs/cer/jsBasic.png" style="width:250px; height:250px; margin:2px;"
+			alt="" /></a>
+	<a href="https://www.hackerrank.com/certificates/79e5194c7ea9" target="blank"><img src="./imgs/cer/nodeBasic.png" style="width:250px; height:250px; margin:2px;"
+			alt="" /></a>
+	<a href="./imgs/cer/cisco.png" target="blank"><img src="./imgs/cer/cisco.png" style="width:250px; height:250px; margin:2px;"
+			alt="" /></a>
+	<a href="https://www.hackerrank.com/certificates/f4049f65bbd5" target="blank"><img src="./imgs/cer/CSS" style="width:250px; height:250px; margin:2px;"
+			alt="" /></a>
+	<a href="https://www.hackerrank.com/certificates/1c726074860a" target="blank"><img src="./imgs/cer/SQLBasic.png" style="width:250px; height:250px; margin:2px;"
+			alt="" /></a>
+	<a href="https://www.hackerrank.com/certificates/dff989100905" target="blank"><img src="./imgs/cer/SQLInter.png" style="width:250px; height:250px; margin:2px;"
+			alt="" /></a>
+	<a href="https://www.hackerrank.com/certificates/6b1e93baa47c" target="blank"><img src="./imgs/cer/restAPI.png" style="width:250px; height:250px; margin:2px;"
+			alt="" /></a>
+		<br> <br>
 	</p>
 
 </details>
