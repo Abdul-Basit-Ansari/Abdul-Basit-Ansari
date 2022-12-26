@@ -261,7 +261,7 @@
 	</p>
 
 </details>
-
+<hr/>
 <details>
 	<summary>
 		<h1> Certificates :
@@ -269,26 +269,26 @@
 	</summary>
 	<br>
 	<p align="center">
-	<a href="https://www.hackerrank.com/certificates/6e79932bc5cd" target="blank"><img src="./imgs/cer/reactBasic.png" style="width:250px; height:250px; margin:2px;"
-			alt="" /></a>
-	<a href="https://www.sololearn.com/certificates/CT-DSMOP9RK" target="blank"><img src="./imgs/cer/responsive.png" style="width:250px; height:250px; margin:2px;"
-			alt="" /></a>
-	<a href="https://www.hackerrank.com/certificates/03fe68b9d2a4" target="blank"><img src="./imgs/cer/python.png" style="width:250px; height:250px; margin:2px;"
-			alt="" /></a>
-	<a href="https://www.hackerrank.com/certificates/d6127d8dc536" target="blank"><img src="./imgs/cer/jsBasic.png" style="width:250px; height:250px; margin:2px;"
-			alt="" /></a>
-	<a href="https://www.hackerrank.com/certificates/79e5194c7ea9" target="blank"><img src="./imgs/cer/nodeBasic.png" style="width:250px; height:250px; margin:2px;"
-			alt="" /></a>
-	<a href="./imgs/cer/cisco.png" target="blank"><img src="./imgs/cer/cisco.png" style="width:250px; height:250px; margin:2px;"
-			alt="" /></a>
-	<a href="https://www.hackerrank.com/certificates/f4049f65bbd5" target="blank"><img src="./imgs/cer/CSS" style="width:250px; height:250px; margin:2px;"
-			alt="" /></a>
-	<a href="https://www.hackerrank.com/certificates/1c726074860a" target="blank"><img src="./imgs/cer/SQLBasic.png" style="width:250px; height:250px; margin:2px;"
-			alt="" /></a>
-	<a href="https://www.hackerrank.com/certificates/dff989100905" target="blank"><img src="./imgs/cer/SQLInter.png" style="width:250px; height:250px; margin:2px;"
-			alt="" /></a>
-	<a href="https://www.hackerrank.com/certificates/6b1e93baa47c" target="blank"><img src="./imgs/cer/restAPI.png" style="width:250px; height:250px; margin:2px;"
-			alt="" /></a>
+	<a href="https://www.hackerrank.com/certificates/6e79932bc5cd" target="blank"><img src="./imgs/cer/reactBasic.png" style="width:250px;  margin:2px;"
+			title="Hacker Rank React Basic" alt="React Basic" /></a>
+	<a href="https://www.sololearn.com/certificates/CT-DSMOP9RK" target="blank"><img src="./imgs/cer/responsive.png" style="width:250px;  margin:2px;"
+			title="Solo Learn Responsive Web Design" alt="Responsive Web Design" /></a>
+	<a href="https://www.hackerrank.com/certificates/03fe68b9d2a4" target="blank"><img src="./imgs/cer/python.png" style="width:250px;  margin:2px;"
+			title="Hacker Rank Python" alt="Python" /></a>
+	<a href="https://www.hackerrank.com/certificates/d6127d8dc536" target="blank"><img src="./imgs/cer/jsBasic.png" style="width:250px;  margin:2px;"
+			title="Hacker Rank Javascript Basic" alt="Javascript Basic" /></a>
+	<a href="https://www.hackerrank.com/certificates/79e5194c7ea9" target="blank"><img src="./imgs/cer/nodeBasic.png" style="width:250px;  margin:2px;"
+			title="Hacker Rank Node Basic" alt="Node Basic" /></a>
+	<a href="./imgs/cer/cisco.png" target="blank"><img src="./imgs/cer/cisco.png" style="width:250px;  margin:2px;"
+			title="Cisco Python" alt="Python Cisco" /></a>
+	<a href="https://www.hackerrank.com/certificates/f4049f65bbd5" target="blank"><img src="./imgs/cer/css.png" style="width:250px;  margin:2px;"
+			title="Hacker Rank CSS" alt="CSS" /></a>
+	<a href="https://www.hackerrank.com/certificates/1c726074860a" target="blank"><img src="./imgs/cer/SQLBasic.png" style="width:250px;  margin:2px;"
+			title="Hacker Rank SQL Basic" alt="SQL Basic" /></a>
+	<a href="https://www.hackerrank.com/certificates/dff989100905" target="blank"><img src="./imgs/cer/SQLInter.png" style="width:250px;  margin:2px;"
+			title="Hacker Rank SQL Intermadite" alt="SQL Intermadite" /></a>
+	<a href="https://www.hackerrank.com/certificates/6b1e93baa47c" target="blank"><img src="./imgs/cer/restAPI.png" style="width:250px;  margin:2px;"
+			title="Hacker Rank REST API" alt="Rest API" /></a>
 		<br> <br>
 	</p>
 
