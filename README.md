@@ -243,10 +243,10 @@
 	</summary>
 	<br>
 	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Basit-Ansari&show_icons=true&locale=en&layout=compact&theme=cobalt"
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-basit-ansari&show_icons=true&locale=en&layout=compact&theme=cobalt"
 			alt="Abdul-Basit-Ansari Most Used Languages"  />
 		<br> <br>
-		<img src="https://github-readme-stats.vercel.app/api?username=Abdul-Basit-Ansari&show_icons=true&locale=en&count_private=true&theme=cobalt"
+		<img src="https://github-readme-stats.vercel.app/api?username=abdul-basit-ansari&show_icons=true&locale=en&count_private=true&theme=cobalt"
 			alt="Abdul-Basit-Ansari Github Stats" />
 		<br> <br>
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Basit-Ansari&theme=dracula" alt="Abdul-Basit-Ansari Github Streaks" />
