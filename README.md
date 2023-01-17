@@ -243,7 +243,7 @@
 	</summary>
 	<br>
 	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-basit-ansari&show_icons=true&locale=en&layout=compact&theme=cobalt"
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-basit-ansari&show_icons=true&locale=en&theme=cobalt&langs_count=20&hide=Procfile,Hack,Shell&layout=compact"
 			alt="Abdul-Basit-Ansari Most Used Languages"  />
 		<br> <br>
 		<img src="https://github-readme-stats.vercel.app/api?username=abdul-basit-ansari&show_icons=true&locale=en&count_private=true&theme=cobalt"
