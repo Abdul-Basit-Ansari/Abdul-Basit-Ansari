@@ -132,7 +132,6 @@
 	</a>
 </p>
 <hr>
-
 <h3 align="left">Tools ⚙️ : </h3>
 
 <p align="left">
@@ -232,7 +231,7 @@
 </p>
 <hr>
 <br>
-<a href="https://wakatime.com/badge/user/93e5cec5-0261-423d-bc5f-11560e94bb8f/project/b3647543-aaf8-4879-be61-011db104dc41"><img src="https://wakatime.com/badge/user/93e5cec5-0261-423d-bc5f-11560e94bb8f/project/b3647543-aaf8-4879-be61-011db104dc41.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/badge/user/93e5cec5-0261-423d-bc5f-11560e94bb8f/project/9b08313d-ea79-4834-a100-52eecfaf218c"><img src="https://wakatime.com/badge/user/93e5cec5-0261-423d-bc5f-11560e94bb8f/project/9b08313d-ea79-4834-a100-52eecfaf218c.svg" alt="wakatime"></a>
 <br>
 
 
@@ -243,15 +242,15 @@
 	</summary>
 	<br>
 	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-basit-ansari&show_icons=true&locale=en&theme=cobalt&langs_count=20&hide=Procfile,Hack,Shell,Cython,C++,C,Ruby&layout=compact"
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-basit-ansari&show_icons=true&locale=en&theme=cobalt&langs_count=20&hide=Procfile,Hack,Shell,Cython,c%2B%2B,C,Ruby,PowerShell,Blade,Batchfile,Assembly,Dockerfile&layout=compact"
 			alt="Abdul-Basit-Ansari Most Used Languages"  />
 		<br> <br>
-		<img src="https://github-readme-stats.vercel.app/api?username=abdul-basit-ansari&show_icons=true&locale=en&count_private=true&theme=cobalt"
+		<img src="https://github-readme-stats.vercel.app/api?username=abdul-basit-ansari&show_icons=true&locale=en&count_private=true&theme=cobalt&hide=issues,contribs"
 			alt="Abdul-Basit-Ansari Github Stats" />
 		<br> <br>
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Basit-Ansari&theme=dracula" alt="Abdul-Basit-Ansari Github Streaks" />
 		<br> <br>
-		<img src="https://github-profile-trophy.vercel.app/?username=Abdul-Basit-Ansari&theme=discord" alt="Abdul-Basit-Ansari Github Stars Commits Data" />
+		<img src="https://github-profile-trophy.vercel.app/?username=Abdul-Basit-Ansari&theme=discord&title=Followers,Stars,Repositories,PullRequest,MultiLanguage,Commits" alt="Abdul-Basit-Ansari Github Stars Commits Data" />
 		<br> <br>
 		<img src="https://wakatime.com/share/@Abdul_Basit_Ansari/df9234a3-82a5-4446-a971-6953cf608b24.svg"
 			alt="Abdul-Basit-Ansari Coding Activity" />
