@@ -28,9 +28,9 @@
 	<!-- <a href="https://twitter.com/shehza_d_" target="blank"><img align="center"
 			src8d8de50ea4659fb94c7fc971fd17c7285b9cf1187e3bb6aacb3473b11e6b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416264756c2d42617369742d416e736172692673686f775f69636f6e733d74727565266c6f63616c653d656e26636f756e745f707269766174653d74727565267468656d653d636f62616c74="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
 			alt="shehza_d_" height="30" width="40" /></a> -->
-	<a href="https://stackoverflow.com/users/18128054/abdul-basit-ansari" target="blank"><img align="center"
+	<!-- <a href="https://stackoverflow.com/users/18128054/abdul-basit-ansari" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-			alt="stack-overflow" height="30" width="40" /></a>
+			alt="stack-overflow" height="30" width="40" /></a> -->
 	<a href="https://www.instagram.com/abdul__basit__ansari/" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 			alt="Instagram" height="30" width="40" /></a>
@@ -41,7 +41,7 @@
 			src="./imgs/icons8-upwork.png" alt="Upwork" height="41" width="41" /></a> -->
 	<!--<a href="https://www.fiverr.com/mr_shahzi_ans" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
 			height="41" width="41" /></a> -->
-	<a href="https://www.facebook.com/I.Am.Mr.A.B.A/" target="blank"><img align="center" title="Facebook" src="./imgs/fb.png" alt="Facebook"
+	<a href="https://www.facebook.com/AbdulBasitAnsari.A.B.A/" target="blank"><img align="center" title="Facebook" src="./imgs/fb.png" alt="Facebook"
 			height="41" width="41" /></a>
 			 <img src="https://komarev.com/ghpvc/?username=Abdul-Basit-Ansari&label=Profile%20Views&color=0e75b6&style=flat" alt="Abdul-Basit-Ansari" align="right"/>
 </p>
@@ -243,7 +243,7 @@
 	</summary>
 	<br>
 	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-basit-ansari&show_icons=true&locale=en&theme=cobalt&langs_count=20&hide=Procfile,Hack,Shell&layout=compact"
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-basit-ansari&show_icons=true&locale=en&theme=cobalt&langs_count=20&hide=Procfile,Hack,Shell,Cython,C++,C,Ruby&layout=compact"
 			alt="Abdul-Basit-Ansari Most Used Languages"  />
 		<br> <br>
 		<img src="https://github-readme-stats.vercel.app/api?username=abdul-basit-ansari&show_icons=true&locale=en&count_private=true&theme=cobalt"
