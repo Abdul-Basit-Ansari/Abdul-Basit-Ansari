@@ -11,7 +11,7 @@
 
 <hr>
 <h3 style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
-- 🌱 I’m Currently Working On<b>Python , REACT JS</b><br>
+- 🌱 I’m Currently Working On <b>Python , REACT JS</b><br>
 - 💞️ Always looking forward to collaborate on projects<br>
 - 💻 Dedicated to Work and seeking Experiences <br>
 - 🏆 I am a <b>Certified Full-Stack Developer</b><br>
