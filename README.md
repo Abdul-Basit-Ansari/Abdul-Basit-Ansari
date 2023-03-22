@@ -6,18 +6,18 @@
 
 <!-- <h3 align="center">A passionate Full-Stack Developer from Karachi, Pakistan❤️</h3> -->
 
-<img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="400" style="border-radius:20px;margin-bottom:10px;"
+	src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l2ljbf6h8r8ye7vmr21ojf13w1d2atujhux2dz72&rid=giphy.gif&ct=g">
 
 <hr>
+
 <h3 style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
-- 🌱 I’m Currently Working On <b>Python , REACT JS</b><br>
+- 🌱 I’m Currently Working At <a target="blank" href="https://tecbrix.com/"><b>Tecbrix</b></a><br>
 - 💞️ Always looking forward to collaborate on projects<br>
 - 💻 Dedicated to Work and seeking Experiences <br>
 - 🏆 I am a <b>Certified Full-Stack Developer</b><br>
 -    from Karachi, Pakistan❤️<br>
-- Certified from Saylani MIT / SYSBORG / Hacker Rank / CISCO   ❤️<br>
-- (hope you see me coming😉) <br>
+- Certified from Saylani MIT / SYSBORG / Hacker Rank / CISCO ❤️<br>
 
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
