@@ -286,6 +286,8 @@
 			title="Hacker Rank SQL Basic" alt="SQL Basic" /></a>
 	<a href="https://www.hackerrank.com/certificates/dff989100905" target="blank"><img src="./imgs/cer/SQLInter.png" style="width:250px;  margin:2px;"
 			title="Hacker Rank SQL Intermadite" alt="SQL Intermadite" /></a>
+	<a href="https://www.sololearn.com/certificates/CT-YCMLJ8OZ" target="blank"><img src="./imgs/cer/jscer.png" style="width:250px;  margin:2px;"
+			title="Javascript ES6" alt="Javascript ES6" /></a>		
 	<a href="https://www.hackerrank.com/certificates/6b1e93baa47c" target="blank"><img src="./imgs/cer/restAPI.png" style="width:250px;  margin:2px;"
 			title="Hacker Rank REST API" alt="Rest API" /></a>
 		<br> <br>
